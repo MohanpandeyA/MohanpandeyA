@@ -53,7 +53,7 @@ mohan = {
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Project:
 
 ### 🧠 [QuantMind — AI-Powered Algorithmic Trading Strategy Advisor](https://github.com/MohanpandeyA/quantmind)
 *Full-stack AI application with multi-agent orchestration, vector search pipeline, quantitative backtesting, and real-time data streaming*
@@ -81,14 +81,6 @@ mohan = {
 - 🏷️ **Stack**: React, ReactFlow, FastAPI, Python
 
 ---
-
-### ⚙️ [Mini-RTOS-Scheduler](https://github.com/MohanpandeyA/Mini-RTOS-Scheduler)
-*Advanced systems-level project simulating real-time operating system scheduling behavior*
-
-- 🏷️ **Stack**: C, Systems Programming
-
----
-
 ## 🛠️ Tech Stack
 
 ### Languages
