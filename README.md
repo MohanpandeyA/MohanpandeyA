@@ -14,7 +14,7 @@
 <!-- Animated Typing Headline -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=A855F7&center=true&vCenter=true&width=750&lines=Hey+there%2C+I'm+Mohan+Pandey+%F0%9F%91%8B;SDE+Intern+%40+Piramal+Finance+%F0%9F%8F%A6;Full-Stack+%26+AI+Developer+%F0%9F%9A%80;LangGraph+%7C+RAG+%7C+FastAPI+%7C+MERN;Top+5.6%25+JEE+Advanced+%E2%9A%A1+MNIT+Jaipur" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=A855F7&center=true&vCenter=true&width=750&lines=Hey+there%2C+I'm+Mohan+Pandey+%F0%9F%91%8B;Full-Stack+%26+AI+Developer+%F0%9F%9A%80;LangGraph+%7C+RAG+%7C+FastAPI+%7C+MERN;" alt="Typing SVG" />
   </a>
 </p>
 
