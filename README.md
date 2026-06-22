@@ -33,8 +33,7 @@ mohan = {
     "stack":       ["Python", "FastAPI", "LangGraph", "React", "MongoDB", "Kafka"],
     "achievements": [
         "LeetCode rating: 1676 | CodeForces: 1037",
-        "Solved 600+ DSA problems",
-        "Top 5.6% in JEE Advanced 2022"
+        "Solved 600+ DSA problems"
     ],
     "fun_fact":    "I built a Mini RTOS Scheduler in C just for fun 🤓"
 }
