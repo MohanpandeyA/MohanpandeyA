@@ -72,14 +72,6 @@ mohan = {
 - 🔐 Designed and implemented a **production-ready ticketing platform** with **role-based authentication** for users and administrators, enabling secure ticket submission and **queue-level management**
 - 🤖 Developed **AI-assisted ticket classification** with **rule-based fallback** to automatically assign ticket category, priority, and support queues
 - 🏷️ **Stack**: React.js, Ant Design, Node.js, Express.js, MongoDB, JWT, AI APIs
-
----
-
-### 🔧 [Pipeline Builder — Visual Pipeline Editor](https://github.com/MohanpandeyA/pipeline-builder)
-*Visual pipeline editor with drag-and-drop node creation and DAG validation*
-
-- 🏷️ **Stack**: React, ReactFlow, FastAPI, Python
-
 ---
 ## 🛠️ Tech Stack
 
