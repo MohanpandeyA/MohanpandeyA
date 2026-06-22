@@ -128,12 +128,6 @@ mohan = {
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MohanpandeyA&theme=tokyonight&no-frame=true&row=1&column=7" />
-</p>
-
 ---
 
 ## 🎯 Achievements & Competitive Programming
@@ -153,11 +147,6 @@ mohan = {
     <td>💡</td>
     <td>Solved <strong>600+</strong> Data Structures & Algorithms problems across platforms</td>
     <td>2026</td>
-  </tr>
-  <tr>
-    <td>🎓</td>
-    <td><strong>JEE Advanced</strong> — Ranked in top <strong>5.6%</strong> of all candidates</td>
-    <td>2022</td>
   </tr>
 </table>
 
