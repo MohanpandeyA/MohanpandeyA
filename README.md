@@ -55,7 +55,6 @@ mohan = {
 ## 🚀 Featured Project:
 
 ### 🧠 [QuantMind — AI-Powered Algorithmic Trading Strategy Advisor](https://github.com/MohanpandeyA/quantmind)
-https://quantmind2-165qttae5-mohanpandeyas-projects.vercel.app/
 *Full-stack AI application with multi-agent orchestration, vector search pipeline, quantitative backtesting, and real-time data streaming*
 
 - 📐 Designed a **7-node LangGraph state machine** with shared `TypedDict` state and **conditional retry edges** — `RiskAgent` routes back to `StrategyAgent` (max 3 retries) when Sharpe/VaR/drawdown thresholds are breached
