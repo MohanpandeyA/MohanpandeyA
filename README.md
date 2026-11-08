@@ -1,11 +1,3 @@
-<!-- 
-  INSTRUCTIONS: 
-  1. Create a new GitHub repo named exactly: MohanpandeyA (same as your username)
-  2. Make it Public
-  3. Copy-paste this entire file as the README.md
-  4. Replace [YOUR_LINKEDIN_USERNAME] and [YOUR_EMAIL] with your real info
--->
-
 <!-- Visitor Counter -->
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=MohanpandeyA&label=Profile%20views&color=blueviolet&style=flat" alt="MohanpandeyA" />
@@ -26,14 +18,15 @@
 mohan = {
     "name":        "Mohan Pandey",
     "education":   "B.Tech ECE @ MNIT Jaipur (2022–2026)",
-    "role":        "Software Development Engineer Intern (AI) @ Piramal Finance",
+    "role":        "Product Development Engineering Intern @ Phenom People",
+    "previously":  "Software Development Engineer Intern (AI) @ Piramal Finance",
     "location":    "India 🇮🇳",
     "focus":       ["LLM Agents", "RAG Systems", "MERN Stack", "Systems Programming"],
-    "currently":   "Building production LangGraph agents for NBFC loan disbursement",
+    "currently":   "Building backend and AI systems",
     "stack":       ["Python", "FastAPI", "LangGraph", "React", "MongoDB", "Kafka"],
     "achievements": [
-        "LeetCode rating: 1676 | CodeForces: 1037",
-        "Solved 600+ DSA problems"
+        "LeetCode rating: 1777",
+        "Solved 650+ DSA problems"
     ],
     "fun_fact":    "I built a Mini RTOS Scheduler in C just for fun 🤓"
 }
@@ -43,8 +36,11 @@ mohan = {
 
 ## 💼 Experience
 
+### 🧩 Phenom People — *Product Development Engineering Intern*
+**Nov 2026 – Present**
+
 ### 🏦 Piramal Finance Limited — *Software Development Engineer Intern (AI)*
-**Feb 2026 – Present | India**
+**Mar 2026 – Oct 2026 | India**
 
 - 🤖 Contributed to **Sud Boss Agent** — a production **LangGraph** service for automated NBFC loan disbursement nudging; a **stateful 11-node directed graph** over a `SudWorkflowState` TypedDict routing leads through data fetch, sanction validation, **LLM-based next-best-actor selection** (Azure OpenAI), escalation decision, and multi-channel communication dispatch — **deployed to production** processing real loan leads daily
 - 🔀 Built the **Subsequent Disbursal node**: implemented a **channel decision tree** (WhatsApp on first contact, voice call on repeat, hard-stop at max VC attempts) based on outbound WA/VC counts and inbound response state; added **team-aware Exotel template selection** (SALES vs. OPERATIONS)
@@ -65,12 +61,13 @@ mohan = {
 
 ---
 
-### 🎫 [Smart Ticket Routing System — AI-Assisted | MERN Stack](https://github.com/MohanpandeyA/Ticket-Routing-System)
-*AI-assisted support ticket system designed to automate issue classification and routing*
+### 🎨 [Collaborative Whiteboard — Real-time Drawing | MERN Stack](https://github.com/MohanpandeyA/whiteboard)
+*Real-time multi-user drawing platform with saved canvases and live sync*
 
-- 🔐 Designed and implemented a **production-ready ticketing platform** with **role-based authentication** for users and administrators, enabling secure ticket submission and **queue-level management**
-- 🤖 Developed **AI-assisted ticket classification** with **rule-based fallback** to automatically assign ticket category, priority, and support queues
-- 🏷️ **Stack**: React.js, Ant Design, Node.js, Express.js, MongoDB, JWT, AI APIs
+- 🔐 Built **JWT login** with canvases saved to **MongoDB Atlas** and auto-saved as people draw
+- ⚡ Used **Socket.IO rooms** to broadcast strokes live, throttled to **30fps**
+- 🛡️ Hardened the server with **Helmet**, **rate limiting** and **input validation**
+- 🏷️ **Stack**: React.js, Socket.IO, Node.js, Express.js, MongoDB Atlas, JWT, RoughJS
 ---
 ## 🛠️ Tech Stack
 
@@ -127,24 +124,17 @@ mohan = {
 
 ---
 
----
-
 ## 🎯 Achievements & Competitive Programming
 
 <table>
   <tr>
     <td>🏅</td>
-    <td><strong>LeetCode</strong> contest rating: <strong>1,676</strong></td>
-    <td>2026</td>
-  </tr>
-  <tr>
-    <td>🏅</td>
-    <td><strong>CodeForces</strong> contest rating: <strong>1,037</strong></td>
+    <td><strong>LeetCode</strong> contest rating: <strong>1,777</strong></td>
     <td>2026</td>
   </tr>
   <tr>
     <td>💡</td>
-    <td>Solved <strong>600+</strong> Data Structures & Algorithms problems across platforms</td>
+    <td>Solved <strong>650+</strong> Data Structures & Algorithms problems across platforms</td>
     <td>2026</td>
   </tr>
 </table>
@@ -165,7 +155,7 @@ mohan = {
 ## 📫 Connect With Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/www.linkedin.com/in/mohan-shyam-pandey-45713025a" target="_blank">
+  <a href="https://www.linkedin.com/in/mohan-shyam-pandey-45713025a/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:mohanspandey2003@gmail.com">
@@ -173,9 +163,6 @@ mohan = {
   </a>
   <a href="https://leetcode.com/pandeymohan1239" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
-  <a href="https://codeforces.com/profile/Mohan_pandey" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
   </a>
 </p>
 
